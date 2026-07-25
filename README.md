@@ -1,4 +1,4 @@
-# processing-serial-parsing_rgb-control
+# prototype-processing-rgb-control
 
 ![Status](https://img.shields.io/badge/Status-Archived%20Learning%20Project-blue)
 ![Year](https://img.shields.io/badge/Year-2022-lightgrey)
