@@ -1,5 +1,7 @@
 # processing-serial-parsing_rgb-control
-GUI test app based on Processing (Java), that controls an Arduino RGB led over Serial interface (2022)
+GUI test app based on Processing(Java), that controls an Arduino RGB led over Serial interface (2022)
+
+My first GUI apps was written in Processing, later transitioned to .NET Framework 4.7.2 + WinForms, then .NET 8 + WPF(Windows Presentation Foundation), and finally ASP.NET Core + Blazor
 
 MCU used: ATMega328P
 
