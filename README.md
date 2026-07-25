@@ -1,5 +1,18 @@
 # processing-serial-parsing_rgb-control
+
+![Status](https://img.shields.io/badge/Status-Archived%20Learning%20Project-blue)
+![Year](https://img.shields.io/badge/Year-2022-lightgrey)
+![Language](https://img.shields.io/badge/Processing-Java-orange)
+![MCU](https://img.shields.io/badge/Arduino-ATmega328P-green)
+
 A simple GUI application written in Processing (Java) that controls an Arduino RGB LED over a serial connection.
+
+ <!--![Alt Text](2022-12-27.png)-->
+
+<p align="center">
+  <img src="2022-12-27.png" alt="Application screenshot" width="700">
+</p>
+
 
 This project was created in 2022 as one of my early GUI experiments.
 
@@ -77,6 +90,4 @@ Credits
 
 The Arduino serial parsing ideas were inspired by AlexGyver:  https://alexgyver.ru/lessons/
 
-
- ![Alt Text](2022-12-27.png)
 
